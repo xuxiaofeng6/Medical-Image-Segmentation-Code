@@ -15,5 +15,5 @@
 13. Uncertainty-aware Self-ensembling Model for Semi-supervised 3D Left Atrium Segmentation [UA-MT](https://github.com/yulequan/UA-MT)
 14. Shape-aware Semi-supervised 3D Semantic Segmentation for Medical Images [SASSnet](https://github.com/kleinzcy/SASSnet)
 15. 3D Medical Image Segmentation With Distance Transform Maps [SegWithDistMap](https://github.com/JunMa11/SegWithDistMap)
-16. Examinee-Examiner Network: Weakly Supervised Accurate Coronary Lumen Segmentation using Centerline Constraint [Examinee-Examiner-Network](https://github.com/qiyaolei/Examinee-Examiner-Network)
+16. **Examinee-Examiner Network**: Weakly Supervised Accurate Coronary Lumen Segmentation using Centerline Constraint [Examinee-Examiner-Network](https://github.com/qiyaolei/Examinee-Examiner-Network)
 
