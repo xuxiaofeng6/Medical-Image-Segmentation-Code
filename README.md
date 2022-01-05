@@ -16,4 +16,5 @@
 14. Shape-aware Semi-supervised 3D Semantic Segmentation for Medical Images [SASSnet](https://github.com/kleinzcy/SASSnet)
 15. 3D Medical Image Segmentation With Distance Transform Maps [SegWithDistMap](https://github.com/JunMa11/SegWithDistMap)
 16. **Examinee-Examiner Network**: Weakly Supervised Accurate Coronary Lumen Segmentation using Centerline Constraint [Examinee-Examiner-Network](https://github.com/qiyaolei/Examinee-Examiner-Network)
+17. **Kiu-net**: Overcomplete convolutional architectures for biomedical image and volumetric segmentation[**Kiu-net**](https://github.com/jeya-maria-jose/KiU-Net-pytorch)
 
